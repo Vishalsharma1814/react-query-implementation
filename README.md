@@ -1,8 +1,12 @@
-# React + Vite
+# TanStack React Query implementation.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This projects implemented the concepts of React Query.
 
-Currently, two official plugins are available:
+1. UseQuery for fetching data.
+2. UseQueryClient for getting the query client.
+3. UseMutation for post requests
+4. Parallel queries
+5. Dependant queries
+6. pagination logic
+7. Optimistic updates
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
